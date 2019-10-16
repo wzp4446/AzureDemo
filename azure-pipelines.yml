@@ -43,5 +43,5 @@ steps:
     SmtpServer: 'smtp.163.com'
     SmtpPort: '465'
     SmtpUsername: '645586289@163.com'
-    SmtpPassword: 'wzp44462010'
+    SmtpPassword: 'wzp4446'
     UseSSL: false
