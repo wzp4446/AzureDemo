@@ -1,0 +1,8 @@
+E:\AzureDemo\AzureDemo\AzureDemoTest\bin\Debug\AzureDemoTest.dll
+E:\AzureDemo\AzureDemo\AzureDemoTest\bin\Debug\AzureDemoTest.pdb
+E:\AzureDemo\AzureDemo\AzureDemoTest\bin\Debug\ClassLibrary.dll
+E:\AzureDemo\AzureDemo\AzureDemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\AzureDemo\AzureDemo\AzureDemoTest\bin\Debug\ClassLibrary.pdb
+E:\AzureDemo\AzureDemo\AzureDemoTest\obj\Debug\AzureDemoTest.csprojResolveAssemblyReference.cache
+E:\AzureDemo\AzureDemo\AzureDemoTest\obj\Debug\AzureDemoTest.dll
+E:\AzureDemo\AzureDemo\AzureDemoTest\obj\Debug\AzureDemoTest.pdb

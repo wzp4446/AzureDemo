@@ -1,0 +1,8 @@
+E:\AzureDemo\AzureDemo\AzureDemo\bin\AzureDemo.dll.config
+E:\AzureDemo\AzureDemo\AzureDemo\bin\AzureDemo.dll
+E:\AzureDemo\AzureDemo\AzureDemo\bin\AzureDemo.pdb
+E:\AzureDemo\AzureDemo\AzureDemo\bin\ClassLibrary.dll
+E:\AzureDemo\AzureDemo\AzureDemo\bin\ClassLibrary.pdb
+E:\AzureDemo\AzureDemo\AzureDemo\obj\Debug\AzureDemo.csprojResolveAssemblyReference.cache
+E:\AzureDemo\AzureDemo\AzureDemo\obj\Debug\AzureDemo.dll
+E:\AzureDemo\AzureDemo\AzureDemo\obj\Debug\AzureDemo.pdb
