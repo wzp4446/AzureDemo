@@ -32,16 +32,8 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
-- task: SendEmail@1
+- task: PublishBuildArtifacts@1
   inputs:
-    To: '645586289@qq.com'
-    From: '645586289@163.com'
-    Subject: 'hello'
-    Body: 'hello'
-    BodyAsHtml: false
-    AddAttachment: false
-    SmtpServer: 'smtp.163.com'
-    SmtpPort: '465'
-    SmtpUsername: '645586289@163.com'
-    SmtpPassword: 'wzp4446'
-    UseSSL: false
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'AzureDemo'
+    publishLocation: 'Container'
